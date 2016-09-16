@@ -1,0 +1,16 @@
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\DebuggingXamarinSample.dll
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\DebuggingXamarinSample.pdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\obj\Debug\DebuggingXamarinSample.dll
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\obj\Debug\DebuggingXamarinSample.pdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\obj\Debug\DebuggingXamarinSample.dll.mdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\DebuggingXamarinSample.dll.mdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\obj\Debug\DebuggingXamarinSample.dll.mdb
+C:\Users\polat\Documents\Projects\DebuggingXamarinSample\DebuggingXamarinSample\bin\Debug\DebuggingXamarinSample.dll.mdb

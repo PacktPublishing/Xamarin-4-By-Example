@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="iOS/XamarinByExample.Weather.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone4s.8.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinByExample.Weather/Core/Presentation/WeatherSearchResult.cs">
+    <Files>
+      <File FileName="XamarinByExample.Weather/Base/Configuration.cs" Line="19" Column="38" />
+      <File FileName="XamarinByExample.Weather/Base/BaseEntity.cs" Line="2" Column="7" />
+      <File FileName="XamarinByExample.Weather/Base/Services/HTTPHelper.cs" Line="45" Column="4" />
+      <File FileName="XamarinByExample.Weather/XamarinByExample.Weather.cs" Line="28" Column="1" />
+      <File FileName="XamarinByExample.Weather/Core/Presentation/WeatherSearchPage.cs" Line="7" Column="49" />
+      <File FileName="XamarinByExample.Weather/Core/Presentation/WeatherSearchResult.cs" Line="17" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="XamarinByExample.Weather" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="Presentation" expanded="True" selected="True" />
+            </Node>
+          </Node>
+          <Node name="XamarinByExample.Weather.Droid" expanded="True">
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

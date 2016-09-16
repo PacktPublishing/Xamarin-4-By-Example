@@ -1,0 +1,46 @@
+﻿<Properties StartupItem="iOS/XamarinByExample.FastFood.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SH438WM06335" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="XamarinByExample.FastFood/Base/Business/BaseBusiness.cs" Line="15" Column="18" />
+      <File FileName="XamarinByExample.FastFood/Base/Data/BaseData.cs" Line="33" Column="4" />
+      <File FileName="XamarinByExample.FastFood/Base/BaseEntity.cs" Line="23" Column="3" />
+      <File FileName="XamarinByExample.FastFood/Base/Configuration.cs" Line="25" Column="5" />
+      <File FileName="XamarinByExample.FastFood/Core/MenuItem.cs" Line="6" Column="27" />
+      <File FileName="XamarinByExample.FastFood/Core/Business/MenuItemBusiness.cs" Line="5" Column="45" />
+      <File FileName="XamarinByExample.FastFood/Core/Data/MenuItemData.cs" Line="5" Column="34" />
+      <File FileName="XamarinByExample.FastFood/Base/Services/BaseService.cs" Line="28" Column="4" />
+      <File FileName="XamarinByExample.FastFood/Core/Services/MenuItemService.cs" Line="5" Column="35" />
+      <File FileName="XamarinByExample.FastFood/XamarinByExample.FastFood.cs" Line="8" Column="3" />
+      <File FileName="XamarinByExample.FastFood/Core/Presentation/OrderPage.cs" Line="13" Column="34" />
+      <File FileName="../XamarinByExample.MonkeysCatalogue/Droid/MainActivity.cs" Line="27" Column="42" />
+      <File FileName="Droid/MainActivity.cs" Line="23" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="XamarinByExample.FastFood" expanded="True">
+            <Node name="Base" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="Business" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Presentation" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="XamarinByExample.FastFood.Droid" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/matteobortolu/Projects/XamarinByExample.FastFood/XamarinByExample.FastFood/Base/Configuration.cs" line="31" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

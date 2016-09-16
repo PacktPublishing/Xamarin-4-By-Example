@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PeopleAroundMe"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="PeopleAroundMe.MainPage">
+
+  <StackLayout Padding="10" Spacing="10">
+    <Label Text="People Around Me" Style="{DynamicResource TitleStyle}" />
+    <Entry Placeholder="Enter your first name here" Keyboard="Text" x:Name="FirstName" />
+    <Entry Placeholder="Enter your last name here" Keyboard="Text" x:Name="LastName" />
+    <Button Text="Add my location to map" BorderRadius="10" Clicked="GetMyLocationAndAddToTheMapButtonClicked"></Button>
+
+    <maps:Map VerticalOptions="FillAndExpand" x:Name="PeopleMap" IsShowingUser="true" MapType="Hybrid" />
+  </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Droid/XamarinByExample.MonkeysCatalogue.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_One" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="XamarinByExample.MonkeysCatalogue/Base/Data/BaseData.cs" Line="14" Column="3" />
+      <File FileName="Droid/MainActivity.cs" Line="17" Column="4" />
+      <File FileName="XamarinByExample.MonkeysCatalogue/Base/Configuration.cs" Line="9" Column="4" />
+      <File FileName="Droid/Configuration.cs" Line="12" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

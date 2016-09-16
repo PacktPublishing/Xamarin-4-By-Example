@@ -1,0 +1,9 @@
+﻿<Properties StartupItem="Droid\DebuggingXamarinSample.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.DebuggingXamarinSample.Droid PreferredExecutionTarget="Android.169.254.190.187:5555" />
+</Properties>

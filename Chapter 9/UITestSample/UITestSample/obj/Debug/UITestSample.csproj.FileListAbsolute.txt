@@ -1,0 +1,17 @@
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\UITestSample.dll
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\UITestSample.pdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\obj\Debug\UITestSample.csprojResolveAssemblyReference.cache
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\obj\Debug\UITestSample.dll
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\obj\Debug\UITestSample.pdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\obj\Debug\UITestSample.dll.mdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\UITestSample.dll.mdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\obj\Debug\UITestSample.dll.mdb
+C:\Users\polat\Documents\Projects\UITestSample\UITestSample\bin\Debug\UITestSample.dll.mdb
