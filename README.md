@@ -2,7 +2,7 @@
 This is the code repository for [Xamarin 4 By Example] (https://www.packtpub.com/application-development/xamarin-4-example?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781785282904
 ), published by Packt. It contains all the supporting project files necessary to work through the course from start to finish.
 
-##What you will learn from this book
+##What you will learn 
 
 * Understand the software development life cycle for mobile applications
 
