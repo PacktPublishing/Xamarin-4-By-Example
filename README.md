@@ -25,3 +25,7 @@ This is the code repository for [Xamarin 4 By Example] (https://www.packtpub.com
 [Xamarin Essentials](https://www.packtpub.com/application-development/xamarin-essentials?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781783550838)
 
 [iOS Development with Xamarin Cookbook](https://www.packtpub.com/application-development/ios-development-xamarin-cookbook?utm_source=GitHub&utm_medium=Repository&utm_campaign=9781849698924)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781785282904">https://packt.link/free-ebook/9781785282904 </a> </p>
